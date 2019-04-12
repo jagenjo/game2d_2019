@@ -1,7 +1,8 @@
 # Game2D 2019
 
-**The Converters ** is a 2D game I did during a week for my Gamedev Course at Universitat Pompeu Fabra.
+**The Converters** is a 2D game I did during a week for my Gamedev Course at Universitat Pompeu Fabra.
 
+![alt text](preview.png)
 
 Its a turn based game, the image is 128x128 pixels.
 
