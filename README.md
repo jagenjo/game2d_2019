@@ -1,6 +1,6 @@
 # Game2D 2019
 
-**The Converters** is a 2D game I did during a week for my Gamedev Course at Universitat Pompeu Fabra.
+**The Converters** is a 2D game I did during a week for my Gamedev Course at Universitat Pompeu Fabra. The theme was FAMILY+RELIGION.
 
 ![alt text](preview.png)
 
