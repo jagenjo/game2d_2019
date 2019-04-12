@@ -4,12 +4,10 @@
 
 ![alt text](preview.png)
 
-Its a turn based game, the image is 128x128 pixels.
+Its a turn based game with a resolution of 128x128 pixels, and it can be played with cursors + A + Z.
 
-The whole game is coded in c++ using a simple 2D framework.
-
-The game logic is less than 1000 lines of code.
+The whole game is coded in c++ using a simple 2D framework, and the game logic is less than 1000 lines of code.
 
 All the graphics are stored in a single image.
 
-This is publishes as an educational example.
+This is published as an educational example for students.
